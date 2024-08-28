@@ -2,7 +2,7 @@ import React from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Layout from './components/Layout';
 import SupplierList from './components/supplierList';
-import SupplierProfile from './components/SupplierProfile';
+import SupplierProfile from './components/supplierProfile';
 import CreateSupplier from './components/CreateSupplier';
 import OrderForm from './components/OrderForm';
 import OrderTracking from './components/OrderTracking';
